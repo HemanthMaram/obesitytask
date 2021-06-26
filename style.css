@@ -1,0 +1,185 @@
+*{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+   
+}
+.container1{
+   display: inline-block;
+   width: 50%;
+   height: 100%;
+   border-right: 3px dashed #00B2E2;
+   
+
+}
+.container2{
+   height: 100%;
+   width: 43%;
+   float: right;
+   display: block;
+   
+   
+   text-align: center;
+   
+   
+}
+.title{
+   font-size: 3em;
+   color: #00B2E2;
+   text-align: center;
+}
+.one{
+   font-size: 1em;
+   color: orange;
+}
+ .description  {
+   font-size: 1.2em;
+   text-align: center;
+   position: relative;
+   bottom:25px;
+   font-weight: bold;
+}
+.ribbon{
+   height: 30px;
+   width: 80%;
+   margin-left: 50px;
+   text-align: center;
+   color: #fff;
+   
+   background-color: #00B2E2;
+}
+.r2{
+   color: #0c6196;
+   text-align:left ;
+   font-size: 3em;
+   margin-left: 20px;
+}
+.r2desc{
+   color:#00B2E2;
+   font-size: 1.3em;
+   margin-left: 30px;
+   text-align: left;
+   font-family: sans-serif;
+   
+}
+.pic{
+   width: 180px;
+   height:180px;
+   position: relative;
+   left: 420px;
+   bottom: 200px;
+}
+.cc2{
+   width: 100px;
+   height:100px;
+   position: relative;
+   left: 380px;
+   bottom: 200px;
+   opacity:0.5;
+
+}
+.side{
+   width: 180px;
+   height: 200px;
+   
+}
+.side1{
+   width: 120px;
+   height: 120px;
+   opacity: 0.5;
+}
+.im1{
+   position: relative;
+   right:280px;
+}
+.im12{
+   position: relative;
+   right: 340px;
+   bottom:30px;
+}
+.im2{
+   position: relative;
+   right:-200px;
+   bottom: 180px;
+}
+.im21{
+   position: relative;
+   bottom: 200px;
+   right: -140px;
+
+}
+.im3{
+   position: relative;
+   right:-100px;
+   bottom: 230px;
+   height: 130px;
+}
+.im31{
+   position: relative;
+   bottom: 240px;
+   right: -48px;
+
+}
+
+.two1{
+   position: relative;
+   bottom: 200px;
+}
+.healthy{
+   height: 130px;
+   width: 140px;
+}
+.medium{
+   color: #00B2E2;
+   font-size: 1.5em;
+}
+.orange{
+   font-size: 2.5em;
+   color: orange;
+   font-weight: bold;
+}
+.blog1{
+   margin-top: 50px;
+   
+}
+
+.ribbon1{
+   height: 30px;
+   width: 90%;
+   
+   text-align: center;
+   color: #fff;
+   position: relative;
+   bottom: -10px;
+   
+   background-color: #00B2E2;
+}
+.issues{
+   border-radius: 50%;
+   width: 100px;
+   height: 100px;
+   border: 7px solid #0c6196;
+}
+.bloghead{
+   font-weight: bold;
+}
+.orangehigh{
+   color:orange;
+   font-size: 2em;
+   font-weight: bold;
+}
+.orangemed{
+   color: orange;
+   font-size: 1.8em;
+}
+
+tr{
+   margin-top: 10px;
+}
+.leftblog{
+   position: relative;
+   bottom: 200px;
+}
+.side5{
+   width: 110px;
+   height: 120px;
+}
